@@ -9,3 +9,4 @@ Project demonstrates the currency conversion on current day.
 - React
 - Tailwind CSS
 
+![image](https://github.com/user-attachments/assets/e1ce639e-3c77-472c-a436-07bb08ed3c1c)
